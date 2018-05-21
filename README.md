@@ -1,6 +1,6 @@
 # CS512
-CSUSM: CS512 - Data mining
-Spring 2018 - Dr. Ahmad Hadaegh
+CSUSM: CS512 - Data mining  
+Spring 2018 - Dr. Ahmad Hadaegh  
 
 In this course we covered the concept of Data Mining using the data mining models specially the models related to regression. 
 
